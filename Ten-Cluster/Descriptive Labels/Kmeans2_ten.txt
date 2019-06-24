@@ -1,0 +1,11 @@
+['Italy', 'year', 'Other variety', 'Cabernet Sauvignon']
+['US', 'Cabernet Sauvignon', 'Other variety', 'Williams Selyem']
+['US', 'Other variety', 'year', 'Other winery']
+['Other country', 'year', 'Other variety', 'Cabernet Sauvignon']
+['Italy', 'France', 'Pinot Noir', 'Other designation']
+['France', 'year', 'Other variety', 'Pinot Noir']
+['Other country', 'Other designation', 'Cabernet Sauvignon', 'Other variety']
+['Pinot Noir', 'US', 'Cabernet Sauvignon', 'year']
+['Other country', 'Chardonnay', 'France', 'Cabernet Sauvignon']
+['Chardonnay', 'year', 'France', 'US']
+
