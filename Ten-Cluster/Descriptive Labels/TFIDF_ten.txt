@@ -1,0 +1,20 @@
+0:
+['wood', 'aging', 'rich', 'tannins', 'structure', 'firm', 'age', 'ripe', 'structured', 'dense']
+1:
+['blackberry', 'black', 'chocolate', 'dark', 'cassis', 'oak', 'blackberries', 'bodied', 'deep', 'currants']
+2:
+['apple', 'lemon', 'white', 'lime', 'citrus', 'pear', 'grapefruit', 'green', 'fresh', 'riesling']
+3:
+['fruity', 'crisp', 'acidity', 'attractive', 'soft', 'light', 'aftertaste', 'bright', 'fresh', 'red']
+4:
+['tannins', 'cherry', 'underbrush', 'opens', 'clove', 'berry', 'licorice', 'black', 'delivers', 'skinned']
+5:
+['cabernet', 'sauvignon', 'merlot', 'franc', 'blend', 'verdot', 'petit', 'malbec', 'syrah', 'blended']
+6:
+['pinot', 'noir', 'silky', 'cola', 'cherries', 'cherry', 'raspberries', 'raspberry', 'next', 'sandalwood']
+7:
+['berry', 'plum', 'herbal', 'feels', 'oaky', 'rubbery', 'earthy', 'tomato', 'baked', 'oak']
+8:
+['strawberry', 'fruit', 'cranberry', 'forest', 'acids', 'raspberry', 'tart', 'bramble', 'petals', 'color']
+9:
+['chardonnay', 'pineapple', 'tropical', 'honey', 'apricot', 'sweet', 'orange', 'blanc', 'vanilla', 'creamy']
