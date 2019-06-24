@@ -1,0 +1,11 @@
+0:
+['fruit', 'berry', 'plum', 'oak', 'blackberry', 'cherry', 'herbal', 'black', 'full', 'sweet']
+1:
+['cherry', 'black', 'tannins', 'fruit', 'cabernet', 'red', 'spice', 'pepper', 'dark', 'blend']
+2:
+['ripe', 'fruit', 'acidity', 'tannins', 'fruits', 'rich', 'full', 'wood', 'structure', 'age']
+3:
+['light', 'fresh', 'acidity', 'crisp', 'fruit', 'green', 'citrus', 'bright', 'pinot', 'dry']
+4:
+['fruit', 'apple', 'acidity', 'white', 'peach', 'lemon', 'pear', 'citrus', 'ripe', 'dry']
+
