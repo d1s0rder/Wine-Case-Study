@@ -1,0 +1,5 @@
+['Other variety', 'Italy', 'Other designation', 'Other winery']
+['US', 'Reserve', 'Cabernet Sauvignon', 'Estate']
+['France', 'Other designation', 'year', 'DFJ Vinhos']
+['Other country', 'Other designation', 'Cabernet Sauvignon', 'Pinot Noir']
+['US', 'Other variety', 'Other designation', 'year']
