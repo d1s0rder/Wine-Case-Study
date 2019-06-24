@@ -1,0 +1,20 @@
+0:
+['apple', 'fruit', 'citrus', 'acidity', 'peach', 'chardonnay', 'lemon', 'white', 'lime', 'green']
+1:
+['red', 'light', 'cherry', 'fruit', 'acidity', 'soft', 'raspberry', 'fresh', 'bright', 'strawberry']
+2:
+['berry', 'plum', 'herbal', 'oak', 'fruit', 'feels', 'blackberry', 'black', 'earthy', 'tannic']
+3:
+['acidity', 'ripe', 'fruits', 'fruit', 'rich', 'wood', 'aging', 'still', 'full', 'tannins']
+4:
+['black', 'tannins', 'cabernet', 'blend', 'merlot', 'sauvignon', 'fruit', 'dark', 'firm', 'currant']
+5:
+['dry', 'tannins', 'pinot', 'cherry', 'oak', 'cherries', 'rich', 'good', 'sweet', 'fruit']
+6:
+['acidity', 'fresh', 'apple', 'lemon', 'crisp', 'citrus', 'dry', 'pear', 'fruit', 'ripe']
+7:
+['fruit', 'white', 'almond', 'mineral', 'petit', 'verdot', 'blend', 'peach', 'sauvignon', 'acidity']
+8:
+['fruit', 'black', 'full', 'dark', 'bodied', 'cherry', 'spice', 'chocolate', 'blackberry', 'syrah']
+9:
+['black', 'cherry', 'tannins', 'spice', 'pepper', 'dried', 'red', 'berry', 'plum', 'licorice']
