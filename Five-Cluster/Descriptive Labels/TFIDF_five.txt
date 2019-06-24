@@ -1,0 +1,10 @@
+0:
+['black', 'cherry', 'tannins', 'pepper', 'opens', 'clove', 'licorice', 'underbrush', 'delivers', 'espresso']
+1:
+['apple', 'citrus', 'peach', 'lemon', 'pear', 'white', 'lime', 'chardonnay', 'melon', 'honey']
+2:
+['ripe', 'acidity', 'wood', 'aging', 'rich', 'tannins', 'fruity', 'structure', 'age', 'full']
+3:
+['cola', 'cherries', 'cabernet', 'cherry', 'cranberry', 'beef', 'cellar', 'blackberries', 'pinot', 'zinfandel']
+4:
+['berry', 'plum', 'herbal', 'feels', 'rubbery', 'earthy', 'oaky', 'baked', 'tomato', 'roasted']
