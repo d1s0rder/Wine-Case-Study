@@ -1,0 +1,5 @@
+['tomato', 'grigio', 'center', 'sirah', 'residual', 'petite', 'half', 'rubbery', 'forest', 'softness']
+['nero', 'buttered', 'stainless', 'pale', 'wide', 'italy', 'herbaceous', 'lychee', 'sparkling', 'dessert']
+['soon', 'game', 'tannins', 'grained', 'skinned', 'ground', 'blue', 'soil', 'glass', 'berry']
+['year', 'screwcap', 'term', 'vine', 'apéritif', 'touriga', 'closed', 'wood', 'vines', 'gentle']
+['cabernet', 'petit', 'equal', 'verdot', 'franc', 'parts', 'merlot', 'super', 'rest', 'sauvignon']
